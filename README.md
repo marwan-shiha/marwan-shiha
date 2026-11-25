@@ -1,7 +1,7 @@
 # MARWAN IBRAHIM
 `DATA ENGINEERING` · `CLOUD INFRASTRUCTURE`
 
-Cairo, Egypt |[Phone NO.](phoneto:+201023202408) | [Email](mailto:marwan.ibrahim.ali.shiha@gmail.com)
+Cairo, Egypt | [Email](mailto:marwan.ibrahim.ali.shiha@gmail.com)
 
 ---
 
