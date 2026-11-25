@@ -1,16 +1,19 @@
-## Hi there 👋
+# MARWAN IBRAHIM
+`DATA ENGINEERING` · `CLOUD INFRASTRUCTURE`
 
-<!--
-**marwan-shiha/marwan-shiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cairo, Egypt |[Phone NO.](phoneto:+201023202408) | [Email](mailto:marwan.ibrahim.ali.shiha@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 01 / OVERVIEW
+Building reproducible data pipelines, containerized ingestion workflows, and analytical databases. Currently focused on DataOps, cloud provisioning, and FinTech data architecture.
+
+---
+
+### 02 / TECHNICAL STACK
+
+```text
+LANGUAGES       Python, SQL, Bash
+DATA & DB       PostgreSQL, Oracle, BigQuery, Pandas, PyArrow, SQLAlchemy
+INFRASTRUCTURE  Docker, Terraform, GCP, Linux (Ubuntu), Git
+TOOLING         uv, pgAdmin, VS Code
